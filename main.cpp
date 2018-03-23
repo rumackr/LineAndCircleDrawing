@@ -1,3 +1,12 @@
+/**
+ * @author Reid Rumack
+ * @file   main.cpp
+ * @date   3/23/2018
+ * @project lab 3
+ *
+ * Discription:
+ *
+ */
 #include "x11context.h"
 #include <unistd.h>
 #include <iostream>
