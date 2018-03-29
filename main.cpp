@@ -4,9 +4,7 @@
  * @date   3/23/2018
  * @project lab 3
  *
- * Tests the GraphicsContext class. m
- *
- *
+ * Tests the GraphicsContext class.
  */
 #include "x11context.h"
 #include <unistd.h>
