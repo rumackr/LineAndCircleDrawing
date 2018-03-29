@@ -65,10 +65,8 @@ int main(void)
             gc->drawLine(300, 300, 120, 300 - k);
             gc->setColor(GraphicsContext::WHITE);
             gc->drawLine(300, 300, 300 - k, 120);
-
         }
-    sleep(5);
+	sleep(5);
 	delete gc;
- 
 	return 0;
 }
