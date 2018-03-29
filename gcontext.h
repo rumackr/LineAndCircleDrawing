@@ -51,9 +51,9 @@ class GraphicsContext
 		static const unsigned int GRAY = 0x808080;
 		static const unsigned int WHITE = 0xFFFFFF;
 
-		/* *******************************************************
+		/*========================================================
 		 * Construction / Destruction
-		 *********************************************************/
+		 *========================================================/
 		// Implementations of this class should include a constructor
 		// that creates the drawing canvas (window), sets a background
 		// color (which may be configurable), sets a default drawing

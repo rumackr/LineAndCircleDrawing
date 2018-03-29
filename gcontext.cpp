@@ -1,7 +1,9 @@
 /**
- * This is an abstract base class representing a generic graphics
- * context.  Most implementation specifics will need to be provided by
- * a concrete implementation.  See header file for specifics.
+ * @author Reid Rumack
+ * @file   gcontext.cpp
+ * @date   3/23/2018
+ * @project lab 3
+ * \see gcontext.h
  */
 
 #define _USE_MATH_DEFINES	// for M_PI
@@ -172,7 +174,7 @@ void GraphicsContext::drawCircle(int x0, int y0, unsigned int radius)
 		}
 	}
 }
-
+bfr
 
 void GraphicsContext::endLoop()
 {

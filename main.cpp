@@ -4,8 +4,8 @@
  * @date   3/23/2018
  * @project lab 3
  *
- * Discription:
- * tests the GraphicsContext class
+ * Tests the GraphicsContext class. m
+ *
  *
  */
 #include "x11context.h"
